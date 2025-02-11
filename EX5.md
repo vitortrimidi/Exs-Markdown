@@ -1,0 +1,5 @@
+#A Odisseia de Homero
+
+***Odisseia*** (em grego clássico: Οδύσσεια; romaniz.: Odýsseia) é um dos dois principais poemas épicos da Grécia Antiga, atribuídos a **Homero** É uma sequência da ***Ilíada***, outra obra creditada ao autor, e é um poema fundamental no cânone ocidental. Historicamente, é a segunda — a primeira sendo a própria *Ilíada* — obra da literatura ocidental.
+
+A *Odisseia*, assim como a *Ilíada*, é um poema elaborado ao longo de séculos de tradição oral, tendo tido sua forma fixada por escrito, provavelmente no fim do século VIII a.C. A linguagem homérica combina dialetos diferentes, inclusive com reminiscências antigas do idioma grego, resultando, por isso, numa língua artificial, porém compreendida. Composto em hexâmetro dactílico era cantado pelo aedo (cantor), que também tocava, acompanhando, a cítara ou fórminx, como consta na própria *Odisseia* (canto VIII, versos 43-92) e também na Ilíada (canto IX, versos 187-190).
